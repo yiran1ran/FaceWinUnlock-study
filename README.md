@@ -2,10 +2,12 @@
 
 **FaceWinUnlock-Tauri** 是一款基于 Tauri 框架开发的现代化 Windows 面容识别解锁增强软件。它通过自定义 Credential Provider (DLL) 注入 Windows 登录界面，结合前端 Vue 3 和后端 OpenCV 人脸识别算法，为用户提供类似 Windows Hello 的解锁体验。
 
-## 下载地址
+## 下载地址 
 [百度云 提取码: 2ugj](https://pan.baidu.com/s/1UxEflXFxJN6wQBjBbwK9vw) 
 
 [天翼云 访问码：u9gv](https://cloud.189.cn/t/FNvee2mQfumm)
+
+[抖音ID: czm529797 提供的公益站点](https://download.mingqwq.top/)
 
 ## 📖 前言
 
@@ -22,6 +24,7 @@
 |--------|----------|----------|------|
 | v0.1.0 | 2026-01-10 | 初始版本发布 | 支持基础面容录入、多账户解锁、系统初始化向导 |
 | v0.1.1 | 2026-01-13 | Bug 修复 | 1. 修复用户名或密码错误时，点击磁贴进入无限循环的bug (#1)<br>2. 修复不显示页面磁贴时，解锁失败的问题 (#4) <br/>**需要重新初始化**|
+| v0.1.2 | 2026-01-xx | Bug 修复 | 1. 修复DLL设置显示磁贴不生效的bug <br/>**需要重新初始化**|
 
 ---
 
